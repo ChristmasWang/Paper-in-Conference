@@ -14,3 +14,13 @@
 [1] http://learningtheory.org/colt2021/accepted.html
 
 [2] http://learningtheory.org/colt2020/accepted.html
+
+## ICLR
+[1] https://openreview.net/group?id=ICLR.cc/2021/Conference
+
+[2] https://openreview.net/group?id=ICLR.cc/2020/Conference
+
+## AAAI
+[1] https://dblp.uni-trier.de/db/conf/aaai/aaai2021.html
+
+[2] https://dblp.uni-trier.de/db/conf/aaai/aaai2020.html
