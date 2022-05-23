@@ -11,13 +11,15 @@
 [2] https://icml.cc/Conferences/2020/Schedule
 
 ## COLT
-[1] http://learningtheory.org/colt2021/accepted.html
+[1] http://learningtheory.org/colt2022/accepted-papers.html
 
-[2] http://learningtheory.org/colt2020/accepted.html
+[2] http://learningtheory.org/colt2021/accepted.html
 
-[3] http://learningtheory.org/colt2019/call.html#accepted-papers
+[3] http://learningtheory.org/colt2020/accepted.html
 
-[4] https://learningtheory.org/colt2018/call.html#accepted-papers
+[4] http://learningtheory.org/colt2019/call.html#accepted-papers
+
+[5] https://learningtheory.org/colt2018/call.html#accepted-papers
 
 ## ICLR
 [1] https://openreview.net/group?id=ICLR.cc/2021/Conference
